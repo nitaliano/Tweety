@@ -1,0 +1,122 @@
+html, body{
+	height: 100%;
+}
+
+body{
+	background-color: #d4d6d5;
+}
+
+ul{
+	list-style: none;
+}
+
+#nav{
+	background-color: #000000;
+	height: 49px;
+}
+
+#nav-wrapper{
+	display: block;
+	margin: 0 auto;
+	height: 49px;
+}
+
+#login-wrapper{
+	display: block;
+	margin: 0 auto;
+	height: 49px;
+}
+
+#login-email,
+#login-pw,
+#login-wrapper button{
+	margin-top: 15px;
+}
+
+#nav-ul{
+	margin-top: 10px;
+	margin-left: 260px;
+}
+
+#pages{
+	margin-top: 49px;
+	margin: 0 auto;
+	height: 600px;
+}
+
+#register-pg{
+	display: block;
+}
+
+#header-space{
+	height: 49px;
+}
+
+#fixed-left-col{
+	display: block;
+	height: 600px;
+}
+
+#home-pg{
+	display: block;
+	margin-left: 80px;
+	height: 600px;
+}
+
+#account-pg{
+	display: none;
+	margin-left: 80px;
+	height: 600px;
+	background-color: blue;
+}
+
+#findfriend-pg{
+	display: none;
+	margin-top: 40px;
+	margin-left: 80px;
+	height: 600px;
+	background-color: #ffffff;
+}
+
+#findfriend-form{	
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+#your-tweet-wrapper{
+	margin-top: 40px;
+	background-color: #ffffff;
+	height: 205px;
+	-moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#tweety-txt-box{
+	margin-top: 20px;
+	margin-left: 36px;
+	min-width: 456px;
+	max-width: 456px;
+	min-height: 130px;
+	max-height : 130px;
+}
+
+#tweety-btn{
+	margin-left: 431px;
+}
+
+#following-tweet-wrapper{
+	margin-top: 20px;
+	background-color: #ffffff;
+	height: 600px;
+	-moz-border-radius: 3px 3px 0px 0px;
+  -webkit-border-radius: 3px 3px 0px 0px;
+	border-radius: 3px 3px 0px 0px;	
+}
+
+
+
+
+
+
+
